@@ -1,0 +1,1 @@
+Solved, I split the monolithic class into appropriate subclasses.

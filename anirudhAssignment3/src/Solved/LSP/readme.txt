@@ -1,0 +1,1 @@
+I solved the LSP violation by splitting up the Calculator types into different classes.

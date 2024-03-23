@@ -5,4 +5,5 @@ public class DiscountCalculatorHeavy extends DiscountCalculator {
     protected double calcDiscount(double subtotal){
         return subtotal * 0.65;
     }
+    //Solved, it has same parameters and return type as parent.
 }

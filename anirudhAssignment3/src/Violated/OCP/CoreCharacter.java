@@ -5,5 +5,5 @@ public class CoreCharacter {
     protected void walkUpdate() {}
     protected void walkUpdateBetter() {}
     protected void getPositionBetter() {}
-
+//Violated because I modified a core source file, (modification instead of extension)
 }
